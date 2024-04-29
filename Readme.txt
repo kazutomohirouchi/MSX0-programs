@@ -24,3 +24,6 @@ SOUNDTESTV1.DSK
 SOUNDTEST0.DSK
 　これはDSKイメージです。SOUND0.BASというファイルがSOUNDTEST MSX0 editionになります。
 　SOUNDTEST MSX0 editionとの違いは、コードモードの音程の上下をカーソル左右で行うか、アナログつまみで行うかです。
+
+SOUND TESTMSX0V1.TXT
+ これはSOUNDTEST MSX0 editionのテキストファイルです。Tera Termなどで流し込む用です。
